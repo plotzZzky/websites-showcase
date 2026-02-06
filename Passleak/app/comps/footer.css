@@ -1,0 +1,53 @@
+/* Footer */
+footer {
+  margin: auto 10px 10px;
+  padding: .5vh 5vw 2vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid var(--color-accent);
+  background-color: var(--color-dark);
+
+   * {
+    color: var(--font-color);
+  }
+
+  a {
+    color: var(--font-color);
+    text-decoration: none;
+    cursor: pointer;
+    font-size: clamp(0.8em, 1vw, 1em);
+  }
+
+  header {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+  }
+
+  h3 {
+    font-size: clamp(1.4em, 2vw, 1.8em);
+    color: var(--color-accent);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0 4px;
+
+     * {
+      font-size: clamp(.3em, 1vw, .6em);
+    }
+  }
+
+  span {
+    margin-top: -3vh;
+    font-size: clamp(0.8em, 1vw, 1em);
+  }
+
+  .email {
+    margin: .5vh 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0 8px;
+  }
+}

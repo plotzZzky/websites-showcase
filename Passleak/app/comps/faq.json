@@ -1,0 +1,26 @@
+[
+  {
+    "question": "O que é o PassLeak?",
+    "answer": "O PassLeak é uma ferramenta gratuita e segura para verificar se suas senhas foram expostas em vazamentos de dados conhecidos. Nosso serviço compara sua senha com bancos de dados públicos de brechas de segurança, sem armazenar suas informações pessoais."
+  },
+  {
+    "question": "Como funciona a verificação de senha?",
+    "answer": "Quando você insere sua senha no PassLeak, ela é comparada com uma base de dados de senhas vazadas. Utilizamos técnicas seguras para garantir que suas credenciais não sejam armazenadas ou expostas durante o processo. Após a verificação, você verá se sua senha foi encontrada em algum vazamento."
+  },
+  {
+    "question": "Minha senha será armazenada ou compartilhada?",
+    "answer": "Não. Nunca armazenamos nem compartilhamos suas senhas. A verificação ocorre de forma anônima e segura, utilizando técnicas de hashing, o que significa que seus dados não ficam registrados em nossos servidores."
+  },
+  {
+    "question": "Minha senha está segura após a verificação?",
+    "answer": "Após a verificação, não armazenamos nenhuma informação sua. Se sua senha estiver exposta, nossa recomendação é que você a mude imediatamente. Use autenticação de dois fatores (2FA) sempre que possível para aumentar a segurança."
+  },
+  {
+    "question": "Se minha senha não foi vazada, o que faço?",
+    "answer": "Não se preocupe, mas só não esqueça de mudá-la de vez em quando e usar a autenticação em dois fatores (2FA)."
+  },
+  {
+    "question": "Se minha senha foi vazada, o que faço?",
+    "answer": "Troque por uma senha mais segura com uma mistura de letras, números e símbolos. E, para ficar ainda mais seguro, ative o 2FA."
+  }
+]
