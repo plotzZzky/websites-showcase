@@ -11,7 +11,9 @@
 
 
 <h2 align="center"> PassLeak </h2>
+
 ### Um jeito simples de verificar a segurança das suas senhas.
+<img src="https://github.com/user-attachments/assets/33102502-0ffc-4bd3-819e-4beb2f122f53" />
 
 
 <h2 align="center"> Desapegos e Artes da Gabi </h2>
