@@ -13,15 +13,15 @@
 <h2 align="center"> PassLeak 🔑 </h2>
 
 #### Um jeito simples de verificar a segurança das suas senhas.
-[PassLeak](https://passleak.vercel.app/)
+[passleak.vercel.app](https://passleak.vercel.app/)
 
 <img src="https://github.com/user-attachments/assets/33102502-0ffc-4bd3-819e-4beb2f122f53" />
 
 ---
 <h2 align="center"> Desapegos e Artes da Gabi 👗 </h2>
 
-[Desapegos e Artes](https://desapegos-e-artes.vercel.app/)
 #### Site feito para um bazar na Shopee com React e hospedado em vercel
+[desapegoseartes.app](https://desapegos-e-artes.vercel.app/)
 
 ![desapegos_e_artes](https://github.com/plotzZzky/Sites/assets/12895974/584aee38-a201-4531-b6b2-3ab7a4f6db02)
 
@@ -30,6 +30,7 @@
 <h2 align="center"> Senhor das Massas 👨‍🍳 </h2>
 
 #### Site feito para um delivery do ifood com React e hospedado em vercel
+[Sr.Massas.app](https://sr-massas.vercel.app/)
+
 ![massas](https://github.com/plotzZzky/Sites/assets/12895974/1c8120d5-1a93-4202-8979-242e8d8d0ccb)
 
-[Sr.Massas](https://sr-massas.vercel.app/)
