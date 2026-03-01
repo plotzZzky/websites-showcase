@@ -1,0 +1,76 @@
+/* Navbar */
+nav {
+  position: fixed;
+  inset: 0 0 auto;
+  padding: 1vh 2vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 990;
+  background-color:var(--color-back);
+  border-bottom: var(--border-slim);
+
+   * ,
+   .brand {
+    color: var(--color-accent);
+    font-weight: bold;
+  }
+  .menu {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  span {
+    padding: .5vh 1vw;
+    margin: 2px 2vw;
+    font-size: var(--font-size-big);
+  }
+}
+
+#Appbar {
+  position: fixed;
+  inset: 6vh 0 auto;
+  padding: 5px 1vw;
+  display: flex;
+  gap: 0 1vw;
+  align-items: center;
+  z-index: 999;
+  background-color: var(--color-back);
+  border-bottom: var(--border);
+
+  span {
+    padding: .5vh 1vw;
+    margin: 2px 0;
+    font-size: var(--font-size-medium);
+  }
+}
+
+nav, 
+#Appbar {
+  span {
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    color: var(--color-accent);
+
+    &::before {
+      content: '';
+      position: absolute;
+      inset: -1px; 
+      border: var(--border-slim);
+      transform-origin: center;
+      transform: scaleY(0);
+      transition: var(--animation);
+      z-index: -1;
+    }
+
+    &:hover::before {
+      transform-origin: center;
+      transform: scaleY(1);
+    }
+  }
+}

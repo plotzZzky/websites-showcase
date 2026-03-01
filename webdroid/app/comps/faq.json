@@ -1,0 +1,22 @@
+[
+  {
+    "question": "O que é o WebDroid?",
+    "answer": "O WebDroid é um front-end minimalista para o F-Droid, permitindo acessar e navegar pelos repositórios de apps livres de forma rápida, simples e segura."
+  },
+  {
+    "question": "Como funciona o WebDroid?",
+    "answer": "O WebDroid conecta-se aos repositórios do F-Droid e apresenta os aplicativos de forma clara e organizada. Você pode pesquisar, explorar categorias e baixar aplicativos diretamente de forma segura, sem complicações."
+  },
+  {
+    "question": "O WebDroid coleta meus dados?",
+    "answer": "Não. O WebDroid é focado em privacidade. Ele não coleta nem armazena informações pessoais do usuário. Toda navegação e pesquisa são feitas localmente no seu dispositivo ou via acesso seguro aos repositórios do F-Droid."
+  },
+  {
+    "question": "Preciso ter uma conta para usar?",
+    "answer": "Não. O WebDroid funciona sem necessidade de login. Basta abrir o aplicativo e navegar pelos repositórios disponíveis no F-Droid."
+  },
+  {
+    "question": "Posso instalar aplicativos pelo WebDroid?",
+    "answer": "Sim. Você pode baixar e instalar aplicativos diretamente do F-Droid usando o WebDroid, mantendo a instalação segura e seguindo as permissões do seu dispositivo."
+  }
+]
