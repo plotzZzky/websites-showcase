@@ -10,6 +10,14 @@
 ![psicoemanuelle](https://github.com/user-attachments/assets/3d6a58b8-7129-44ae-83c6-7f21e9af460a)
 
 ---
+<h2 align="center"> Webdroid 🌎 </h2>
+
+#### Uma nova forma simples de explorar apps livres.
+[webdroid.vercel.app](https://webdroid-six.vercel.app/)
+
+<img alt="webdroid" src="https://github.com/user-attachments/assets/95d489c2-4080-4620-a981-bbcbf5833f0f" />
+
+---
 <h2 align="center"> PassLeak 🔑 </h2>
 
 #### Um jeito simples de verificar a segurança das suas senhas.
